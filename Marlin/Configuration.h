@@ -1,4 +1,3 @@
-//Ender 3/PRO V4.2.2 BLTouch Pluged Into Dedicated Port
 /**
  * Marlin 3D Printer Firmware
  * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
@@ -137,7 +136,7 @@
 #endif
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Ender-3_422"
+#define CUSTOM_MACHINE_NAME "Ender-3"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
