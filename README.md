@@ -19,7 +19,7 @@
 
 
 # Instructions
-* Download firmware-Ender.3.Pro-4.x.x-BL-Touch_Dedicated.bin from the Relases Page](https://github.com/rpi309/Creality-Ender-3-Firmware/releases) 
+* Download firmware-Ender.3.Pro-4.x.x-BL-Touch_Dedicated.bin from the [Relases Page](https://github.com/rpi309/Creality-Ender-3-Firmware/releases) 
 * Rename the file to _firmware.bin_
 * Put the file onto the microSD card when the printer is powered _off_
 * Power on the printer
