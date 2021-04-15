@@ -4,8 +4,6 @@
 * Precompiled Binaries for the Upgraded Ender 3/Pro with Creality 2.x.x 32bit Boards with BLTouches Plugged into the Dedicated Port
 * Compile-Ready Source code for the Stock Ender 3/Pro with Creality 2.x.x 32bit Boards with BLTouches Plugged into the Dedicated Port
 
-https://github.com/rpi309/Creality-Ender-3-Firmware/blob/Ender-3/pro_4.x.x_bltouch-dedicated/Wiring.jpg
-
 
 # How to use the files in this repository
 * Download the Latest Release from the [Relases Page](https://github.com/rpi309/Creality-Ender-3-Firmware/releases) 
